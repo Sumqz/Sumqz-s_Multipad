@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D2,D1";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";2;"SK6812MINI";;;
+2;"SW9";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch";;;
+3;"SW2,SW5,SW6,SW1,SW3,SW4";"SW_Cherry_MX_1.00u_PCB";6;"SW_Push";;;
+4;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+5;"J1";"FanPinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
